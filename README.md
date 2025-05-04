@@ -19,14 +19,7 @@
 
 以下の手順でローカル環境にプロジェクトをセットアップできます。
 
-### 1. リポジトリをクローン
-
-```bash
-git clone https://github.com/your-username/book-review-app.git
-cd book-review-app
-```
-
-### 2. 依存関係のインストール
+### 1. 依存関係のインストール
 
 ```bash
 npm install
@@ -34,7 +27,7 @@ npm install
 yarn install
 ```
 
-### 3. 開発サーバーの起動
+### 2. 開発サーバーの起動
 
 ```bash
 npm run dev
